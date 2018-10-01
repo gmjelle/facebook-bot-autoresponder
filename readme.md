@@ -25,7 +25,7 @@ This code is just a demo :) Especially with HTTP requests there should be some e
 
 Need more info? I created a whole blogpost to explain the code and how you can change it to suit your needs.
 
-[Link to the blogpost](todo)
+[Link to the blogpost](https://thegrowthrevolution.com/blog/howto-make-bot-replies-facebook-comments/)
 
 ## License
 This code is released under MIT license
