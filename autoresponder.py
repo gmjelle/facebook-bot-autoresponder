@@ -3,7 +3,7 @@
 
 """
 NEED MORE INFO? CHECK OUT THE BLOGPOST
-https://thegrowthrevolution.com/how-to-make-a-bot-that-automatically-replies-to-comments-on-facebook-post
+https://thegrowthrevolution.com/blog/howto-make-bot-replies-facebook-comments/
 """
 
 import sqlite3
