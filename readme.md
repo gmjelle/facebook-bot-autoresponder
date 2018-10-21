@@ -8,7 +8,7 @@ Created by Jelle VDV
 ----------
 
 
-Repo for all the code talked about in this blogpost: (todo).
+Repo for all the code talked about in this blogpost: https://vandevliet.me/bot-automatically-responds-comments-facebook/.
 
 This code monitors all the comments of a Facebook post, and then comments on the comments with a custom photo.
 In this code there is an example on how you can make it respond with an image that includes the orginal commenter's profile picture.
@@ -25,7 +25,7 @@ This code is just a demo :) Especially with HTTP requests there should be some e
 
 Need more info? I created a whole blogpost to explain the code and how you can change it to suit your needs.
 
-[Link to the blogpost](todo)
+[Link to the blogpost](https://vandevliet.me/bot-automatically-responds-comments-facebook/)
 
 ## License
 This code is released under MIT license
