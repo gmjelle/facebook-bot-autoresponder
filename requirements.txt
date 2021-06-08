@@ -1,2 +1,2 @@
 facebook-sdk==2.0.0
-Pillow==8.1.1
+Pillow==8.2.0
